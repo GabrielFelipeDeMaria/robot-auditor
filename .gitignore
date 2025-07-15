@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual
+venv/
+.env/
+
+# Ignorar arquivos temporários
+*.pyc
+__pycache__/
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de configuração pessoais
+*.env
+*.sqlite3
+.DS_Store
